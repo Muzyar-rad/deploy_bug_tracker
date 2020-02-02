@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/mazycode",
+  "port": "3900",
+  "requiresAuth": true
+}
