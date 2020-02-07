@@ -38,7 +38,6 @@ userSchema.methods.generateAuthToken = function() {
   );
   return token;
 };
-//comment
 
 const User = mongoose.model("User", userSchema);
 
