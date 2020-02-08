@@ -63,5 +63,3 @@ function validateUser(user) {
 
 exports.User = User;
 exports.validate = validateUser;
-
-//hello
