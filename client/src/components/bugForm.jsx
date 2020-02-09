@@ -64,7 +64,6 @@ class BugForm extends Form {
       statusId: task.status._id
     };
   }
-  //Changin in bugform
 
   doSubmit = async () => {
     await saveTask(this.state.data);
