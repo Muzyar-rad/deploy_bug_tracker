@@ -38,7 +38,6 @@ class Bugs extends Component {
     } catch (ex) {
       if (ex.response && ex.response.status === 404)
         toast.error("This task has already been deleted.");
-      toast;
       this.setState({ tasks: originalTasks });
     }
   };
