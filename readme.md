@@ -26,6 +26,9 @@ Various reusable components were implemented on this project including Paginatio
 Try the application live [here](http://18.223.33.161)
 
 ## Preview
+![bugTracker1](readme_gifs/bugTracker1.gif)
+![bugTracker2](readme_gifs/bugTracker2.gif)
+![bugTracker3](readme_gifs/bugTracker3.gif)
 
 ### Colaborator
 
