@@ -50,6 +50,8 @@ Muzyar Rad aka. Mazy
 
 4. Open a browser and navigate to `localhost:3000`
 
+5. Register with a new User to be able to add bugs for your project and see the full feature!
+
 ## Need Help?
 
 Feel free to email me at **Muzyar.rad@gmail.com** for any inquiries or setup assistance
