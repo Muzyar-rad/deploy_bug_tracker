@@ -9,7 +9,7 @@ Some features include Paginated data on the table, Filtering based on priority a
 1. Node.js(Express) for back-end
 2. React.js for front-end
 3. MongoDB (NoSQL)
-4. Axios HTTP framework for connecting the endpoints to the front-end
+4. Bootstrap 4
 5. AWS EC2 for deployment
 
 ### Reusability for front-end :
