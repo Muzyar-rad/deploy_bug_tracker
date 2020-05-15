@@ -1,6 +1,6 @@
 ## Mazy's Bug Tracker
 
-This is a simple tool for raising a bug, giving it specific status and priority, specifiying the exact date that the bug was created, editing the bug.
+A full-stack non-mobile responsive application meant to be a tool for raising a bug, giving it specific status and priority, specifiying the exact date that the bug was created, editing the bug.
 
 Some features include Paginated data on the table, Filtering based on priority and status and returning a paginated result on the table, creating a new ticket, Ability to edit, create tickets only by authenticated users, Ability to delete tickets only by authorized(admin) user, hidden Navbar element and component for non-authenticated user, user being redirected to homepage after registering without the need to login right after.
 
