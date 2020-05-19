@@ -1,7 +1,6 @@
 const winston = require("winston");
 const express = require("express");
 const config = require("config");
-const path = require("path");
 const app = express();
 
 require("./startup/logging")();
