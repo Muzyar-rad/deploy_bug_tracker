@@ -102,7 +102,7 @@ class Bugs extends Component {
             onStatusSelect={this.handleStatusSelect}
           />
         </div>
-        <div className="row-2">
+        <div className="row-2" style={{ overflowX: "auto" }}>
           {" "}
           <BugTable
             tasks={tasks}
