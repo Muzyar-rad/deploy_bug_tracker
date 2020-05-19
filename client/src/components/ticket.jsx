@@ -10,7 +10,7 @@ class Ticket extends Form {
       title: "",
       owner: "",
       priorityId: "",
-      statusId: "5e38f852dedb3a5fe8ac1595"
+      statusId: "5ec33130ec79abc94f1f4791"
     },
     priorities: [],
     statusList: [],
