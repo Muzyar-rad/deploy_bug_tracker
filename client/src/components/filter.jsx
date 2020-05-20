@@ -13,8 +13,8 @@ class Filter extends Form {
   };
 
   schema = {
-    priority: Joi.string().label("Priority"),
-    status: Joi.string().label("Status")
+    priority: Joi.label("Priority"),
+    status: Joi.label("Status")
   };
 
   async componentDidMount() {
