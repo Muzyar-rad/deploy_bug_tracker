@@ -40,7 +40,7 @@ class BugTable extends Component {
     const { tasks, onSort, sortColumn } = this.props;
 
     return tasks.length === 0 ? (
-      "There are no bugs with the specified priority and/or status"
+      <div>There are no bugs with the specified priority and/or status</div>
     ) : (
       <Table
         style={{ width: "20%" }}
