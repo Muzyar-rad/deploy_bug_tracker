@@ -21,6 +21,7 @@ class Ticket extends Form {
     _id: Joi.string(),
     title: Joi.string()
       .required()
+      .min(5)
       .max(50)
       .label("Title"),
     owner: Joi.string()
