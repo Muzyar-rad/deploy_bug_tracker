@@ -29,7 +29,7 @@ class Ticket extends Form {
       .max(50)
       .label("Owner"),
     statusId: Joi.string()
-      // .required()
+      .required()
       .label("Status"),
     priorityId: Joi.string()
       .required()
