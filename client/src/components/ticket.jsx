@@ -40,6 +40,10 @@ class Ticket extends Form {
     const { data: priorities } = await getPriorities();
     this.setState({ priorities });
   }
+   async componentDidMount() {
+    const { data: priorities } = await getPriorities();
+    this.setState({ priorities });
+  }
 
   doSubmit = async () => {
     await saveTask(this.state.data);
